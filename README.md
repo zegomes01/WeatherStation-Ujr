@@ -17,19 +17,19 @@ Vídeo aqui e aqui
 ### Instruções
 
 1.Abrir os ficheiros Final_State_tilting_pages.py e screen.gif 
-2.Colocar ficheios no ambiente de trabalho ou numa pasta comum
+2.Colocar ficheios no ambiente de trabalho ou numa pasta comumhttps://www.raspberrypi.org/products/sense-hat/
 
 ### Hardware
 
 |Nome |Link |
 |---|---|
-|Raspberry Pi 3|Ver aqui |
-|SenseHat|Ver aqui |
+|Raspberry Pi 3|[Ver aqui](https://www.raspberrypi.org/)|
+|SenseHat|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)|
 
 ### Software
 
 |Nome |Link |
 |---|---|
-|SenseHat software|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/) |
+|SenseHat software|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)|
 |Python |[Ver aqui](https://www.python.org/) |
 |Guizero|[Ver aqui](https://lawsie.github.io/guizero/) |
