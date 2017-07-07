@@ -15,7 +15,7 @@ Vídeo aqui e aqui
 |José Gomes|zegomes2001@gmail.com |
 
 
-### [Video]([Ver aqui](https://www.raspberrypi.org/products/sense-hat/)|)
+### ([Ver aqui](https://www.raspberrypi.org/products/sense-hat/)|)
 
 ### Instruções
 
