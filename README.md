@@ -29,7 +29,7 @@ Vídeo aqui e aqui
 ### Software
 
 |Nome |Link |
-|---|---|---|
+|---|---|
 |SenseHat software|Ver [Ver aqui](https://www.raspberrypi.org/products/sense-hat/) |
 |Python |Ver [Ver aqui](https://www.python.org/) |
 |Guizero|Ver [Ver aqui](https://lawsie.github.io/guizero/) |
