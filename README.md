@@ -17,6 +17,7 @@ Vídeo aqui e aqui
 ### Instruções
 
 1.Abrir os ficheiros Final_State_tilting_pages.py e screen.gif 
+
 2.Colocar ficheios no ambiente de trabalho ou numa pasta comum
 
 ### Hardware
