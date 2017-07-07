@@ -4,7 +4,7 @@
 
 Esta "app" permite-nos obter informações meteriológicas diversas, como a temperatura e a humidade, atravez do Sense Hat do raspberry pi.
 
-### [Video](https://www.raspberrypi.org/products/sense-hat/)
+### [Video](https://mega.nz/#!wfB3ESAa!8OO0oKTBoRpMhngjFtseWfy4Y-bRCjT1_jS6ePsStng)
 
 ### Autores
 
