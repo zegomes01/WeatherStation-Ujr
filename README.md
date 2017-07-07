@@ -3,7 +3,8 @@
 ## WeatherStation-Ujr
 
 Esta "app" permite-nos obter informações meteriológicas diversas, como a temperatura e a humidade, atravez do Sense Hat do raspberry pi.
-Vídeo aqui e aqui
+
+### [Video](https://www.raspberrypi.org/products/sense-hat/)
 
 ### Autores
 
@@ -14,8 +15,6 @@ Vídeo aqui e aqui
 |Eduardo Monteiro |eduardosecamonteiro@gmail.com|
 |José Gomes|zegomes2001@gmail.com |
 
-
-### ([Video](https://www.raspberrypi.org/products/sense-hat/)|)
 
 ### Instruções
 
