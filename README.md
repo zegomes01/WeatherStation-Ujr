@@ -1,4 +1,4 @@
-# Hackathon Cidade + Inteligente
+# Hackathon Ideias Inteligentes
 
 ## WeatherStation-Ujr
 
